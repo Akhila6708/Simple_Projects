@@ -28,7 +28,7 @@ while(True):
    print(game())
    continue
  elif(Choice==0):
-    print("Thankyou for playing!\nHope you will back:-)")
+    print("Thankyou for playing!\nHope you will be back:-)")
     break
  
 
