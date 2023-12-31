@@ -17,7 +17,7 @@ def game():
         guess=int(input("Guess greater than this number:"))
         attempt+=1
     else:
-        print("Matched! You won\nYou guessed correct number")
+        print("Matched! You won\nYou guessed correct number:-)")
         print(f"You have {attempt} attempts")
         break
 S=game()
